@@ -21,11 +21,11 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus-spring-app</id>
-        <url>http://13.50.225.196:8081/repository/spring-app/</url>
+        <url>http://16.170.170.36:8081/repository/spring-app/</url>
       </snapshotRepository>
       <repository>
         <id>nexus-releases</id>
-        <url>http://13.50.225.196:8081/repository/maven-releases/</url>
+        <url>http://16.170.170.36:8081/repository/maven-releases/</url>
       </repository>
     </distributionManagement>
 </project>
